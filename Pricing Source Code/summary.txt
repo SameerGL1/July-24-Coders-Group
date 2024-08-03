@@ -1,0 +1,48 @@
+HTML 
+CSS 1 
+    E-commerce website 
+
+CSS 2 
+    1. Flex Box   
+        Style the 1 dimention 
+            Eighter styling can be applied horizontal 
+            or verticle 
+
+        components 
+            1. flex container: 
+                The parent element that has the "display:flex" or 
+                "display: inline-flex" property applied to it.
+
+            2. flex item: The direct children of the flex container 
+
+        Properties of the Flex Container 
+            1. flex-direction: defines the direction of the flex items 
+                1.1 row 
+                1.2 row-revese
+                1.3 column 
+                1.4 column-reverse
+            2. flex wrap:Specifies whether the flex item should wrap or not 
+            3. Justify-content: horizontal axis 
+            4. align-items: cross axis 
+            5. align-content: 
+
+    2. Grid Layout 
+        Apply the styling on the 2 dimentions 
+            
+        components 
+            1. Grid Container: Parent element that has the properties 
+                "display: grid"
+                "display: inline-grid" 
+
+            2. Grid items: the direct children of the grid container 
+
+        Properties 
+            1. Justify-item 
+            2. align-iem
+            3. align-content 
+            4. grid-template-column
+            5. grid-template-row 
+                defines the number of rows or the columns 
+            6. grid-gap: gap between 2 rows and the columns will be added
+            7. grdi-row-gap: only between the rows gap will be added 
+            8. grid-column-gap: only between the columns gap will be added 
